@@ -3,7 +3,7 @@ This repository contains code for the paper on 2023 EMNLP Findings: "LLM-in-the-
 
 We propose a human–LLM collaboration framework (i.e., LLM-in-the-loop) to conduct thematic analysis (TA) with in-context learning (ICL). This framework provides the prompt to frame discussions with LLM to generate the final codebook for TA. We demonstrate the utility of this framework using survey datasets on the aspects of the music listening experience and the usage of a password manager. The results and a case study show that the proposed framework yields similar coding quality to that of human coders but reduces TA’s labor and time demands.
 
-![workflow](https://hackmd.io/_uploads/rJe-diD-6.png)
+![workflow](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_fa8284a97c8ad6236d51e55c74943861.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697262272&Signature=kHdDFJqNW0TEkBSK5%2F8SKJvElRs%3D)
 
 The two datasets we used in this work can be found here:
 * Music Shuffle: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7004375/
